@@ -4,7 +4,7 @@ def sum(a, b):
 
     Args:
         a (int or float): premier nombre
-        b (int or float): deuxime nombre
+        b (int or float): deuxième nombre
 
     Returns:
         int of float: La somme de a et b
@@ -16,7 +16,7 @@ def subtraction(a, b):
 
     Args:
         a (int or float): premier nombre
-        b (int or float): deuxime nombre
+        b (int or float): deuxième nombre
 
     Returns:
         int or float: Le résultat de a - b
